@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Qspiders]]>
+    </line>
+    <line>
+      <![CDATA[jspiders]]>
+    </line>
+    <line>
+      <![CDATA[Tspiders]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123" started-at="2019-06-04T15:07:04Z" finished-at="2019-06-04T15:07:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123" started-at="2019-06-04T15:07:04Z" finished-at="2019-06-04T15:07:04Z">
+      <class name="qsp.Demo1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:qsp.Demo1@548a9f61]" name="test1" duration-ms="24" started-at="2019-06-04T20:37:04Z" finished-at="2019-06-04T20:37:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Qspiders]]>
+            </line>
+            <line>
+              <![CDATA[jspiders]]>
+            </line>
+            <line>
+              <![CDATA[Tspiders]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- qsp.Demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
